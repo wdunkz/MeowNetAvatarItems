@@ -10065,6 +10065,19 @@
         "ThumbnailImage": "drqcby4q8dncgmtl1ndocn4kj.png"
     },
     {
+        "AvatarItemDesc": "c87239ca-a255-4b13-bbc5-1b38236fb4cc,e69372eb-2fd8-4e17-a448-ee0be61a2c7a,,",
+        "AvatarItemType": 0,
+        "PlatformMask": -1,
+        "FriendlyName": "Viking Helmet ( Black )",
+        "Tooltip": "",
+        "Rarity": 50,
+        "TagList": null,
+        "AvatarItemId": 71,
+        "IsBaseAvatarItem": false,
+        "CreatedAt": "2017-04-05T23:43:35.977Z",
+        "ThumbnailImage": "drqcby4q8dncgmtl1ndocn4kj.png"
+    },
+    {
         "AvatarItemDesc": "8c51fc1a-b1ad-4002-a13c-4313abd92c7f,,,",
         "AvatarItemType": 0,
         "PlatformMask": -1,
