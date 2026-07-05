@@ -14,6 +14,30 @@
     },
     {
         "AvatarItemType": 0,
+        "AvatarItemDesc": "E9VTiIVFPEa-OuQRto0e_Q,48abd952-214f-48b2-a8f1-1146f6f69aa2,C8gCmBZ8RUG83vvDw_UYew,",
+        "PlatformMask": -1,
+        "FriendlyName": "SteamPunk Vest (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,48abd952-214f-48b2-a8f1-1146f6f69aa2,05cff8b8-d437-485a-b4b8-41d35becd022,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mobster Cuffs (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "1a742ff9-c4f7-45d8-8e24-8f24aa021db2,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Demon Horns (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
         "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,48abd952-214f-48b2-a8f1-1146f6f69aa2,0440f08f-ef1d-49d8-942b-523056e8bb45,v0GsPFC7cU-_JNG4-ERfog",
         "PlatformMask": -1,
         "FriendlyName": "Video Contest White & Black",
