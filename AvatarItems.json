@@ -22,6 +22,14 @@
     },
     {
         "AvatarItemType": 0,
+        "AvatarItemDesc": "s6mUIqiPCk6e57UYCx3SZA,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Witch Hat (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
         "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,48abd952-214f-48b2-a8f1-1146f6f69aa2,05cff8b8-d437-485a-b4b8-41d35becd022,",
         "PlatformMask": -1,
         "FriendlyName": "Mobster Cuffs (Dunks)",
