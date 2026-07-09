@@ -22,6 +22,14 @@
     },
     {
         "AvatarItemType": 0,
+        "AvatarItemDesc": "7db6b49f-3e2a-4da8-bdfa-e9ad9ebc5ba6,e69372eb-2fd8-4e17-a448-ee0be61a2c7a,9c55b609-b7dc-4070-a3ad-6351a0054a06,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mirrored Glasses (Blacks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
         "AvatarItemDesc": "s6mUIqiPCk6e57UYCx3SZA,48abd952-214f-48b2-a8f1-1146f6f69aa2,,",
         "PlatformMask": -1,
         "FriendlyName": "Witch Hat (Dunks)",
