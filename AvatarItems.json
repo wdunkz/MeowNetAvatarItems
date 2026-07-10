@@ -52,6 +52,22 @@
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
+        {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,hhs9GY3XZkWb-8TXODvo6A,05cff8b8-d437-485a-b4b8-41d35becd022,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mobster Cuffs (Dunks Green)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "1a742ff9-c4f7-45d8-8e24-8f24aa021db2,hhs9GY3XZkWb-8TXODvo6A,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Demon Horns (Dunks Green)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
     {
         "AvatarItemType": 0,
         "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,48abd952-214f-48b2-a8f1-1146f6f69aa2,0440f08f-ef1d-49d8-942b-523056e8bb45,v0GsPFC7cU-_JNG4-ERfog",
@@ -24196,7 +24212,7 @@
     {
         "AvatarItemDesc": "0bc6bd1b-8b7e-4945-a1d6-c26b9c043318,hhs9GY3XZkWb-8TXODvo6A,8ec5de40-73fc-4f09-9bf3-ddf4701107bc,",
         "AvatarItemType": 0,
-        "FriendlyName": "",
+        "FriendlyName": "2d Art Contest (Green)",
         "Rarity": 50,
         "ToolTip": ""
     },
