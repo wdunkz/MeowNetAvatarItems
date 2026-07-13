@@ -19,6 +19,30 @@
         "FriendlyName": "SteamPunk Vest (Dunks)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
+    },    
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "4308da04-af84-40bb-845a-7a9e1a2726ec,48abd952-214f-48b2-a8f1-1146f6f69aa2,c2052d8c-fbcd-4462-8f08-bcf5b3dfde2f,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mobster Suit (MeowNet Staff)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,48abd952-214f-48b2-a8f1-1146f6f69aa2,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mobster Hat (MeowNet Staff)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "08d56627-4500-4724-8692-a23c96ddb3ec,48abd952-214f-48b2-a8f1-1146f6f69aa2,05cff8b8-d437-485a-b4b8-41d35becd022,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mobster cuffs (MeowNet Staff)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
     },
     {
         "AvatarItemType": 0,
