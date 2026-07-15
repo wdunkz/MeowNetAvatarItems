@@ -24,15 +24,47 @@
         "AvatarItemType": 0,
         "AvatarItemDesc": "0yFzgVESokC3gFd3hrS8bg,cbe29e9f-f2ac-47fb-97e1-8bad16abb89d,yKb2A8M_m0GQDhFWCRUHTQ,",
         "PlatformMask": -1,
-        "FriendlyName": "Tutorial Dunk (Dunks)",
+        "FriendlyName": "Tutorial Gown (Dunkaroos)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
-    },    
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "O8VqC11xNkSKpDh6Omp_0w,cbe29e9f-f2ac-47fb-97e1-8bad16abb89d,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Tutorial Sash (Dunkaroos)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    }, 
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "M9weaekvIUimiJSVJqZl-w,cbe29e9f-f2ac-47fb-97e1-8bad16abb89d,GV8z2dlqGEqIAYaGrF1ZYQ,",
+        "PlatformMask": -1,
+        "FriendlyName": "Tutorial Hat (Dunkaroos)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
     {
         "AvatarItemType": 0,
         "AvatarItemDesc": "0yFzgVESokC3gFd3hrS8bg,zlqLrGEa8E2WW9ey_szREA,yKb2A8M_m0GQDhFWCRUHTQ,",
         "PlatformMask": -1,
-        "FriendlyName": "Tutorial test (Dunks)",
+        "FriendlyName": "Tutorial test gown (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "M9weaekvIUimiJSVJqZl-w,zlqLrGEa8E2WW9ey_szREA,GV8z2dlqGEqIAYaGrF1ZYQ,",
+        "PlatformMask": -1,
+        "FriendlyName": "Tutorial test hat (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "O8VqC11xNkSKpDh6Omp_0w,zlqLrGEa8E2WW9ey_szREA,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Tutorial test sash (Dunks)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
