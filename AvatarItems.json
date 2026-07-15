@@ -14,6 +14,14 @@
     },
     {
         "AvatarItemType": 0,
+        "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,zlqLrGEa8E2WW9ey_szREA,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+        "PlatformMask": -1,
+        "FriendlyName": "Mobster Hat (MeowNet Staff)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
         "AvatarItemDesc": "E9VTiIVFPEa-OuQRto0e_Q,48abd952-214f-48b2-a8f1-1146f6f69aa2,C8gCmBZ8RUG83vvDw_UYew,",
         "PlatformMask": -1,
         "FriendlyName": "SteamPunk Vest (Dunks)",
@@ -48,7 +56,7 @@
         "AvatarItemType": 0,
         "AvatarItemDesc": "0yFzgVESokC3gFd3hrS8bg,zlqLrGEa8E2WW9ey_szREA,yKb2A8M_m0GQDhFWCRUHTQ,",
         "PlatformMask": -1,
-        "FriendlyName": "Tutorial test gown (Dunks)",
+        "FriendlyName": "Tutorial gown (Dunks)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
@@ -56,7 +64,7 @@
         "AvatarItemType": 0,
         "AvatarItemDesc": "M9weaekvIUimiJSVJqZl-w,zlqLrGEa8E2WW9ey_szREA,GV8z2dlqGEqIAYaGrF1ZYQ,",
         "PlatformMask": -1,
-        "FriendlyName": "Tutorial test hat (Dunks)",
+        "FriendlyName": "Tutorial hat (Dunks)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
@@ -64,7 +72,7 @@
         "AvatarItemType": 0,
         "AvatarItemDesc": "O8VqC11xNkSKpDh6Omp_0w,zlqLrGEa8E2WW9ey_szREA,,",
         "PlatformMask": -1,
-        "FriendlyName": "Tutorial test sash (Dunks)",
+        "FriendlyName": "Tutorial sash (Dunks)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
