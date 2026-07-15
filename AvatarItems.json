@@ -22,6 +22,22 @@
     },    
     {
         "AvatarItemType": 0,
+        "AvatarItemDesc": "0yFzgVESokC3gFd3hrS8bg,cbe29e9f-f2ac-47fb-97e1-8bad16abb89d,yKb2A8M_m0GQDhFWCRUHTQ,",
+        "PlatformMask": -1,
+        "FriendlyName": "Tutorial Dunk (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },    
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "0yFzgVESokC3gFd3hrS8bg,zlqLrGEa8E2WW9ey_szREA,yKb2A8M_m0GQDhFWCRUHTQ,",
+        "PlatformMask": -1,
+        "FriendlyName": "Tutorial test (Dunks)",
+        "Tooltip": "Made by @dunks",
+        "Rarity": 50
+    },
+    {
+        "AvatarItemType": 0,
         "AvatarItemDesc": "4308da04-af84-40bb-845a-7a9e1a2726ec,48abd952-214f-48b2-a8f1-1146f6f69aa2,c2052d8c-fbcd-4462-8f08-bcf5b3dfde2f,",
         "PlatformMask": -1,
         "FriendlyName": "Mobster Suit (MeowNet Staff)",
