@@ -14,6 +14,22 @@
     },
     {
         "AvatarItemType": 0,
+        "AvatarItemDesc": "d0a9262f-5504-46a7-bb10-7507503db58e,mZ2ASMrs80axStLp9g1enA,,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+        "PlatformMask": -1,
+        "FriendlyName": "Black n White RECS",
+        "Tooltip": "ID:gtHQ9Qxu/DevItem",
+        "Rarity": 0
+    },
+    {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "50c9c6f8-2963-4ef3-95d5-e999a898269f,7_n11PF4-0KqTZ9az23hqg,,",
+        "PlatformMask": -1,
+        "FriendlyName": "Black Saija Gloves",
+        "Tooltip": "ID:Kd9LoTGz/DevItem",
+        "Rarity": 0
+    },
+    {
+        "AvatarItemType": 0,
         "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,zlqLrGEa8E2WW9ey_szREA,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
         "PlatformMask": -1,
         "FriendlyName": "Fucking hat that wont work (Dunks)",
