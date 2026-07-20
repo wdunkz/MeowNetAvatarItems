@@ -222,17 +222,9 @@
     },
     {
         "AvatarItemType": 0,
-        "AvatarItemDesc": "bu9tb-K7NEiocvZY3o7ukw,owoIOIEM70e6WxnYdlKYWQ,tqyzKPdDwkWq3jfZ8jZdaA,",
-        "PlatformMask": -1,
-        "FriendlyName": "Shutter Shades Purple",
-        "Tooltip": "Made by @dunks",
-        "Rarity": 50
-    },
-    {
-        "AvatarItemType": 0,
         "AvatarItemDesc": "bu9tb-K7NEiocvZY3o7ukw,c72911d0-453f-4732-b1bd-dad520220a06,,",
         "PlatformMask": -1,
-        "FriendlyName": "Shutter Shades (purp)",
+        "FriendlyName": "Shutter Shades (For repeating)",
         "Tooltip": "Made by @dunks",
         "Rarity": 50
     },
